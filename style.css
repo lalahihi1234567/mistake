@@ -1,0 +1,23 @@
+h1{
+    color:rgb(0, 110, 255);
+}
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: peachpuff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.link{
+    display: flex;
+    justify-content: center;
+}
+.middle{
+    background-color: slateblue;
+    color:#ffffff;
+    text-align: center;
+}
